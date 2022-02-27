@@ -38,7 +38,7 @@ public class LineComparison {
 		if (line1Length == line2Length) {
 			System.out.println("Two lines are equal");
 		} else {
-			System.out.println("Two lines are not equal");
+			System.out.println("Two lines are not equal");//
 		}
 	}
 
